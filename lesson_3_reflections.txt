@@ -1,2 +1,6 @@
-When would you want to create a remote repository rather than keeping all your work local?
-为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？
+1，When would you want to create a remote repository rather than keeping all your work local?
+2，为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？
+3，说明Fork、克隆和分支之间的不同。何时使用某种功能而不是另一种？
+   分支指分支；
+   克隆是从GitHub上下载到本地计算机中，或者在本地计算机中复制；
+   Fork是指从GitHub上下载到GitHub上。
